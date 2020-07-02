@@ -1,6 +1,6 @@
 # Bitstation
 
-**Broadcast Paid Video Content Over P2P Network. Powered by Lightning Network and Dazaar**
+**Broadcast Paid Video Content Over P2P Network. Powered by Bitcoin Lightning Network and [Dazaar](https://dazaar.com/)**
 
 ##### Why Bitstation?
 * Don't be tied down and dependent to centralised streaming services like Twitch, Facebook, Twitter..etc
