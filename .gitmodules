@@ -1,0 +1,9 @@
+[submodule "Bitstation-Client"]
+	path = Bitstation-Client
+	url = https://github.com/rbndg/Bitstation-Client
+[submodule "Bitstation-Broadcaster"]
+	path = Bitstation-Broadcaster
+	url = https://github.com/rbndg/Bitstation-Broadcaster
+[submodule "Bitstation-Player"]
+	path = Bitstation-Player
+	url = https://github.com/rbndg/Bitstation-Player
